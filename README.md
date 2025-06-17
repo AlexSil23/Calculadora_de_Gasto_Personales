@@ -12,7 +12,7 @@ La **Calculadora de Gastos Personales** permite a los usuarios registrar ingreso
 - **Consultar balance**: Calcula la diferencia entre ingresos y gastos usando Java Streams.
 - **Reportes por categoría**: Lista transacciones filtradas por categoría.
 - **Persistencia en CSV**: Carga y guarda transacciones en `ficheroTransactions.csv`, eliminando duplicados.
-- **Interfaz de consola**: Menú interactivo modular con manejo de entrada/salida y validación de errores.
+- - **Interfaz de consola**: Menú interactivo modular con manejo de entrada/salida y validación de errores.
 - **Manejo de formatos numéricos**: Usa `Locale.US` para consistencia en la lectura/escritura de montos (ej. `50.50`).
 
 ## Tecnologías utilizadas
